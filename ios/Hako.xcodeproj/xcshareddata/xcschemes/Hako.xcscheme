@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "HakoJouyouKanji.app"
-               BlueprintName = "HakoJouyouKanji"
-               ReferencedContainer = "container:HakoJouyouKanji.xcodeproj">
+               BuildableName = "Hako.app"
+               BlueprintName = "Hako"
+               ReferencedContainer = "container:Hako.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "HakoJouyouKanjiTests.xctest"
-               BlueprintName = "HakoJouyouKanjiTests"
-               ReferencedContainer = "container:HakoJouyouKanji.xcodeproj">
+               BuildableName = "HakoTests.xctest"
+               BlueprintName = "HakoTests"
+               ReferencedContainer = "container:Hako.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HakoJouyouKanji.app"
-            BlueprintName = "HakoJouyouKanji"
-            ReferencedContainer = "container:HakoJouyouKanji.xcodeproj">
+            BuildableName = "Hako.app"
+            BlueprintName = "Hako"
+            ReferencedContainer = "container:Hako.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HakoJouyouKanji.app"
-            BlueprintName = "HakoJouyouKanji"
-            ReferencedContainer = "container:HakoJouyouKanji.xcodeproj">
+            BuildableName = "Hako.app"
+            BlueprintName = "Hako"
+            ReferencedContainer = "container:Hako.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
