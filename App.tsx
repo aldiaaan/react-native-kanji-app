@@ -1,8 +1,12 @@
+import 'react-native-gesture-handler';
+
 import React from 'react';
-import {Text, View} from 'react-native';
+import {gestureHandlerRootHOC} from 'react-native-gesture-handler';
+
+import {Root} from './src/Root';
 
 const App = () => {
-  return <View />;
+  return <Root />;
 };
 
-export default App;
+export default gestureHandlerRootHOC(App);
