@@ -1,5 +1,8 @@
 import React from 'react';
-import {SafeAreaProvider} from 'react-native-safe-area-context';
+import {
+  initialWindowMetrics,
+  SafeAreaProvider,
+} from 'react-native-safe-area-context';
 import {NavigationContainer} from '@react-navigation/native';
 
 import {AppNavigator} from './navigators/AppNavigator';
@@ -8,7 +11,7 @@ import {lightTheme} from './constants/theme';
 
 export const Root = () => {
   return (
-    <SafeAreaProvider>
+    <SafeAreaProvider initialMetrics={initialWindowMetrics}>
       <NavigationContainer>
         <ThemeProvider theme={lightTheme}>
           <AppNavigator />

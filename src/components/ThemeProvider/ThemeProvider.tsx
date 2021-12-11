@@ -1,8 +1,8 @@
 import React from 'react';
-import {BaseTheme, ThemeProviderContext} from './ThemeProviderContext';
+import {ThemeProviderContext} from './ThemeProviderContext';
 
 export type ThemeProviderProps = {
-  theme?: BaseTheme;
+  theme?: any;
   children?: React.ReactNode;
 };
 
