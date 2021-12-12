@@ -3,6 +3,9 @@ export const palette = {
   cyan: '#4877d8',
   orange: '#f49e42',
   green: '#5eb670',
+  greenSecondary: '#CEE9D4',
+  red: '#FF4646',
+  redSecondary: '#FFE9E9',
   white: '#fff',
   gray: {
     900: '#111011',

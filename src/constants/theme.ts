@@ -13,6 +13,10 @@ export const lightTheme = {
     green: palette.green,
     gray: palette.gray,
     ripple: 'rgba(0,0,0,0.05)',
+    success: palette.green,
+    successSubdued: palette.greenSecondary,
+    danger: palette.red,
+    dangerSubdued: palette.redSecondary,
   },
   font: {
     regular: 'Rubik-Regular',
