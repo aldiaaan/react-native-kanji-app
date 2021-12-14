@@ -37,7 +37,8 @@ export const KanjiLevelListItem = memo(
     }));
 
     const animatedChevronStyle = useAnimatedStyle(() => ({
-      transform: [{rotate: `${mix(transition.value, -180, 0)}deg`}],
+      // transform: [{rotate: `${mix(transition.value, -180, 0)}deg`}],
+      // transform: [{}],
     }));
 
     const handlePress = useCallback(() => {

@@ -1,8 +1,5 @@
 import React from 'react';
-import {
-  initialWindowMetrics,
-  SafeAreaProvider,
-} from 'react-native-safe-area-context';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {QueryClient, QueryClientProvider} from 'react-query';
 import {NavigationContainer} from '@react-navigation/native';
 
@@ -14,7 +11,7 @@ const queryClient = new QueryClient();
 
 export const Root = () => {
   return (
-    <SafeAreaProvider initialMetrics={initialWindowMetrics}>
+    <SafeAreaProvider>
       <NavigationContainer>
         <ThemeProvider theme={lightTheme}>
           <QueryClientProvider client={queryClient}>
