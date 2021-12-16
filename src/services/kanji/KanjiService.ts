@@ -13,6 +13,14 @@ export type FetchQuestionsByGradeLevelResult = {
   type: KanjiTypes;
 }[];
 
+export const fetchKanjisByGradeLevel = async (level: KanjiGradeLevel) => {
+  const kanjis = await KanjiRepository.fetchKanjiByLevel(level);
+  return kanjis.map(kanji => ({
+    kanji: kanji.kanji,
+    meanings: kanji.meanings,
+  }));
+};
+
 export const fetchQuestionsByGradeLevel = async (
   level: KanjiGradeLevel,
   count?: number,

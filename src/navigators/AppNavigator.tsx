@@ -7,8 +7,10 @@ import {
 import {HomeScreen} from '../screens/HomeScreen';
 import {QuizScreen} from '../screens/QuizScreen';
 import {QuizLoaderScreen} from '../screens/QuizLoaderScreen';
+import {KanjiListLoaderScreen} from '../screens/KanjiListLoaderScreen';
+import {KanjiListScreen} from '../screens/KanjiListScreen';
 import {KanjiGradeLevel, KanjiTypes} from '../constants/kanji';
-import {Easing} from 'react-native';
+import {WebViewScreen} from '../screens/WebViewScreen';
 
 export type AppStackParamList = {
   HomeScreen: undefined;
@@ -21,6 +23,18 @@ export type AppStackParamList = {
       options: {label: string; value: string}[];
       type: KanjiTypes;
     }[];
+  };
+  KanjiListScreen: {
+    kanjis: {
+      kanji: string;
+      meanings: string[];
+    }[];
+  };
+  KanjiListLoaderScreen: {
+    level: KanjiGradeLevel;
+  };
+  WebViewScreen: {
+    url: string;
   };
   QuizLoaderScreen: {
     level?: KanjiGradeLevel;
@@ -78,6 +92,33 @@ export const AppNavigator = () => {
       <AppStack.Screen
         name="QuizLoaderScreen"
         component={QuizLoaderScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="KanjiListLoaderScreen"
+        component={KanjiListLoaderScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="KanjiListScreen"
+        component={KanjiListScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="WebViewScreen"
+        component={WebViewScreen}
         options={{
           header: () => null,
           cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,

@@ -24,6 +24,11 @@ export const KanjiLevelList = memo(
           <KanjiLevelListItem
             label={item.label}
             type={item.type}
+            onExplorePress={() => {
+              navigation.navigate('KanjiListLoaderScreen', {
+                level: item.type as KanjiGradeLevel,
+              });
+            }}
             onQuizPress={() => {
               navigation.navigate('QuizLoaderScreen', {
                 level: item.type as KanjiGradeLevel,
