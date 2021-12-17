@@ -25,7 +25,8 @@ export const KanjiList = ({
   const handleKanjiItemPress = useCallback(
     ({kanji}: {kanji?: string}) =>
       navigation.navigate('WebViewScreen', {
-        url: `https://jisho.org/search/${kanji} #kanji`,
+        url: `https://jisho.org/search/${kanji}%20%23kanji`,
+        title: `${kanji} details`,
       }),
     [navigation],
   );

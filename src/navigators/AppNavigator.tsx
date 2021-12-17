@@ -35,6 +35,7 @@ export type AppStackParamList = {
   };
   WebViewScreen: {
     url: string;
+    title?: string;
   };
   QuizLoaderScreen: {
     level?: KanjiGradeLevel;

@@ -9,6 +9,7 @@ export const lightTheme = {
     textSecondary: palette.gray[800],
     textTertiary: palette.gray[700],
     background: palette.white,
+    backgroundSubdued: palette.gray[200],
     shadow: palette.gray[400],
     green: palette.green,
     gray: palette.gray,
