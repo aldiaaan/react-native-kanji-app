@@ -12,5 +12,9 @@ export const KanjiListScreen = () => {
 
   const {theme} = useTheme<AppTheme>();
 
-  return <KanjiList data={params.kanjis} style={{flex: 1}} numColumns={4} />;
+  return (
+    <SafeAreaView style={{flex: 1}}>
+      <KanjiList data={params.kanjis} style={{flex: 1}} numColumns={4} />
+    </SafeAreaView>
+  );
 };

@@ -28,8 +28,8 @@ export const KanjiListLoaderScreen = () => {
   );
 
   return (
-    <SafeAreaView>
-      <Text>list kanji</Text>
+    <SafeAreaView style={{flex: 1, backgroundColor: '#fff'}}>
+      <Text>Loading ...</Text>
     </SafeAreaView>
   );
 };

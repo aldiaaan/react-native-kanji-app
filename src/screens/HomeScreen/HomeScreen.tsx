@@ -37,7 +37,7 @@ export const HomeScreen = () => {
               color: theme.colors.textPrimary,
             },
           ]}>
-          Welcome, Aldian
+          Welcome
         </Text>
       </View>
       <KanjiLevelList
