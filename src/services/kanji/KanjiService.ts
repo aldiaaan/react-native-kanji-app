@@ -27,7 +27,6 @@ export const fetchQuestionsByGradeLevel = async (
   count?: number,
 ): Promise<FetchQuestionsByGradeLevelResult> => {
   const kanjis = await KanjiRepository.fetchKanjiByLevel(level);
-  await new Promise(resolve => setTimeout(resolve, 1000));
 
   const questions = [];
 
