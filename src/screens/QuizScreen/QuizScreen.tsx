@@ -8,33 +8,66 @@ import {KanjiQuestion} from './components/KanjiQuestion';
 import {useTheme} from '../../components/ThemeProvider';
 import {AppTheme} from '../../constants/theme';
 import {KanjiTypes} from '../../constants/kanji';
-import {RouteProp, useRoute} from '@react-navigation/core';
+import {RouteProp, useNavigation, useRoute} from '@react-navigation/core';
 import {AppStackParamList} from '../../navigators/AppNavigator';
+import {StackNavigationProp} from '@react-navigation/stack';
 
 export const QuizScreen = () => {
   const {theme} = useTheme<AppTheme>();
 
-  const [answers, setAnswers] = useImmer<{value?: string; id?: string}[]>([]);
+  const [answers, setAnswers] = useImmer<
+    {value?: string; id?: string; correctValue?: string}[]
+  >([]);
 
   const {params} = useRoute<RouteProp<AppStackParamList, 'QuizScreen'>>();
 
+  const navigation = useNavigation<StackNavigationProp<AppStackParamList>>();
+
   const [answerIndex, setAnswerIndex] = useState(0);
 
+  const handleNextQuestion = useCallback(() => {
+    setAnswerIndex(prev => prev + 1);
+  }, [setAnswerIndex]);
+
+  useEffect(() => {
+    if (answers.length === params.questions.length) {
+      let wrongCount = answers.reduce((acc, answer) => {
+        if (answer.value !== answer.correctValue) {
+          acc = acc + 1;
+        }
+
+        return acc;
+      }, 0);
+
+      navigation.replace('QuizResultScreen', {
+        correctCount: params.questions.length - wrongCount,
+        wrongCount,
+      });
+    }
+  }, [answers, navigation, params.questions.length]);
+
   const handleOptionPress = useCallback(
-    ({id, value}: {id?: string; value?: string}) => {
+    ({
+      id,
+      value,
+      correctValue,
+    }: {
+      id?: string;
+      value?: string;
+      correctValue?: string;
+    }) => {
       setAnswers(draft => {
         const answer = draft.find(item => item.id === id);
+
         if (answer) {
           answer.value = value;
         } else {
-          draft.push({id, value});
+          draft.push({id, value, correctValue});
         }
       });
     },
     [setAnswers],
   );
-
-  useEffect(() => {}, []);
 
   return (
     <SafeAreaView
@@ -51,9 +84,7 @@ export const QuizScreen = () => {
           options={question.options}
           correctOption={question.correctOption}
           onOptionPress={handleOptionPress}
-          onNextQuestion={() => {
-            setAnswerIndex(prev => prev + 1);
-          }}
+          onNextQuestion={handleNextQuestion}
         />
       ))}
     </SafeAreaView>

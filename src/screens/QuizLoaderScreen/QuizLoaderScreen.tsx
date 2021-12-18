@@ -20,7 +20,7 @@ export const QuizLoaderScreen = () => {
   const {isFetching} = useQuery(
     ['kanji', params.level],
     async () => {
-      return await KanjiService.fetchQuestionsByGradeLevel(params.level!, 20);
+      return await KanjiService.fetchQuestionsByGradeLevel(params.level!, 10);
     },
     {
       onSuccess: result => {

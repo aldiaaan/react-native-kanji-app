@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {StyleProp, StyleSheet, Text, View, ViewStyle} from 'react-native';
 
 import Animated from 'react-native-reanimated';
@@ -18,8 +18,14 @@ import {
 import {KanjiQuizOption} from './types';
 
 export type KanjiQuestionProps = {
-  onOptionPress?: (args: {id: string; value: string}) => void;
+  onOptionPress?: (args: {
+    id: string;
+    value: string;
+    correctValue?: string;
+  }) => void;
   onNextQuestion?: () => void;
+  onCorrect?: () => void;
+  onWrong?: () => void;
   options?: KanjiQuizOption[];
   value?: string;
   type: KanjiTypes;
@@ -39,9 +45,19 @@ export const KanjiQuestion = ({
   style,
   onOptionPress,
   onNextQuestion,
+  onWrong,
   correctOption,
 }: KanjiQuestionProps) => {
   const {theme} = useTheme<AppTheme>();
+
+  useEffect(() => {
+    if (!value) {
+      return;
+    }
+    if (value !== correctOption?.value) {
+      onWrong?.();
+    }
+  }, [onWrong, value, correctOption]);
 
   return (
     <Animated.View
@@ -106,7 +122,11 @@ export const KanjiQuestion = ({
               key={option.value}
               onPress={() => {
                 if (!value) {
-                  onOptionPress?.({id, value: option.value});
+                  onOptionPress?.({
+                    id,
+                    value: option.value,
+                    correctValue: correctOption?.value,
+                  });
                   setTimeout(() => {
                     onNextQuestion?.();
                   }, 1000);

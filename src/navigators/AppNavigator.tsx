@@ -13,6 +13,7 @@ import {KanjiGradeLevel, KanjiTypes} from '../constants/kanji';
 import {WebViewScreen} from '../screens/WebViewScreen';
 import {KanjiFlashCardScreen} from '../screens/KanjiFlashCardScreen';
 import {KanjiFlashCardLoaderScreen} from '../screens/KanjiFlashCardLoaderScreen';
+import {QuizResultScreen} from '../screens/QuizResultScreen/QuizResultScreen';
 
 export type AppStackParamList = {
   HomeScreen: undefined;
@@ -37,6 +38,10 @@ export type AppStackParamList = {
   };
   KanjiFlashCardLoaderScreen: {
     level: KanjiGradeLevel;
+  };
+  QuizResultScreen: {
+    wrongCount: number;
+    correctCount: number;
   };
   KanjiFlashCardScreen: {
     kanjis: {
@@ -150,6 +155,15 @@ export const AppNavigator = () => {
       <AppStack.Screen
         name="KanjiFlashCardLoaderScreen"
         component={KanjiFlashCardLoaderScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="QuizResultScreen"
+        component={QuizResultScreen}
         options={{
           header: () => null,
           cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
