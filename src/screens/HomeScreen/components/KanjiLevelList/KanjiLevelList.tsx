@@ -29,6 +29,11 @@ export const KanjiLevelList = memo(
                 level: item.type as KanjiGradeLevel,
               });
             }}
+            onFlashCardPress={() => {
+              navigation.navigate('KanjiFlashCardLoaderScreen', {
+                level: item.type as KanjiGradeLevel,
+              });
+            }}
             onQuizPress={() => {
               navigation.navigate('QuizLoaderScreen', {
                 level: item.type as KanjiGradeLevel,

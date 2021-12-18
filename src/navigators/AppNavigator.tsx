@@ -11,6 +11,8 @@ import {KanjiListLoaderScreen} from '../screens/KanjiListLoaderScreen';
 import {KanjiListScreen} from '../screens/KanjiListScreen';
 import {KanjiGradeLevel, KanjiTypes} from '../constants/kanji';
 import {WebViewScreen} from '../screens/WebViewScreen';
+import {KanjiFlashCardScreen} from '../screens/KanjiFlashCardScreen';
+import {KanjiFlashCardLoaderScreen} from '../screens/KanjiFlashCardLoaderScreen';
 
 export type AppStackParamList = {
   HomeScreen: undefined;
@@ -32,6 +34,16 @@ export type AppStackParamList = {
   };
   KanjiListLoaderScreen: {
     level: KanjiGradeLevel;
+  };
+  KanjiFlashCardLoaderScreen: {
+    level: KanjiGradeLevel;
+  };
+  KanjiFlashCardScreen: {
+    kanjis: {
+      kanji: string;
+      meanings: string[];
+      kun: string[];
+    }[];
   };
   WebViewScreen: {
     url: string;
@@ -120,6 +132,24 @@ export const AppNavigator = () => {
       <AppStack.Screen
         name="WebViewScreen"
         component={WebViewScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="KanjiFlashCardScreen"
+        component={KanjiFlashCardScreen}
+        options={{
+          header: () => null,
+          cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,
+          transitionSpec: DEFAULT_TRANSITION_SPEC,
+        }}
+      />
+      <AppStack.Screen
+        name="KanjiFlashCardLoaderScreen"
+        component={KanjiFlashCardLoaderScreen}
         options={{
           header: () => null,
           cardStyleInterpolator: CardStyleInterpolators.forHorizontalIOS,

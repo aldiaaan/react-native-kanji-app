@@ -18,6 +18,7 @@ export const fetchKanjisByGradeLevel = async (level: KanjiGradeLevel) => {
   return kanjis.map(kanji => ({
     kanji: kanji.kanji,
     meanings: kanji.meanings,
+    kun: kanji.kun_readings,
   }));
 };
 
