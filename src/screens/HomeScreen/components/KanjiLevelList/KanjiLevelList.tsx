@@ -1,7 +1,14 @@
 import {useNavigation} from '@react-navigation/core';
 import {StackNavigationProp} from '@react-navigation/stack';
 import React, {memo, useCallback} from 'react';
-import {FlatList, StyleProp, StyleSheet, View, ViewStyle} from 'react-native';
+import {
+  FlatList,
+  StyleProp,
+  StyleSheet,
+  Text,
+  View,
+  ViewStyle,
+} from 'react-native';
 import {KanjiLevelListItem} from './KanjiLevelListItem';
 
 import {AppStackParamList} from '../../../../navigators/AppNavigator';
@@ -11,6 +18,8 @@ export type KanjiLevelListProps = {
   data: {type: string; label: string}[];
   contentContainerStyle?: StyleProp<ViewStyle>;
 };
+
+const Footer = () => <Text>thanks to github@davidluzgouveia for the data</Text>;
 
 export const KanjiLevelList = memo(
   ({data, contentContainerStyle}: KanjiLevelListProps) => {
@@ -47,6 +56,7 @@ export const KanjiLevelList = memo(
 
     return (
       <FlatList
+        ListFooterComponent={Footer}
         showsVerticalScrollIndicator={false}
         data={data}
         contentContainerStyle={contentContainerStyle}
