@@ -1,0 +1,988 @@
+1
+00:00:03,160 --> 00:00:05,000
+ya selamat malam semuanya
+
+2
+00:00:06,000 --> 00:00:07,200
+malam
+
+3
+00:00:10,200 --> 00:00:16,240
+perkenalkan dulu nama saya aldian asmara dari ilmu komputer UNJ
+
+4
+00:00:16,760 --> 00:00:22,120
+maksud saya disini mengundang saudara semua untuk testing
+
+5
+00:00:22,120 --> 00:00:30,120
+ hasil aplikasi dari mata kuliah mobile computing ini untuk final project
+
+6
+00:00:30,120 --> 00:00:42,000
+nah aplikasinya sendiri, dia aplikasi untuk membantu orang orang yang tertarik belajar bahasa jepang
+
+7
+00:00:45,960 --> 00:00:47,520
+yai itu aja sih
+
+8
+00:00:49,480 --> 00:01:00,000
+disini ada tiga orang tester yang penguji pertama ada bagas 
+
+9
+00:01:00,000 --> 00:01:03,000
+nah bagas bisa kenalan sedikit gak
+
+10
+00:01:04,000 --> 00:01:04,600
+[bagas] baik,
+
+11
+00:01:05,280 --> 00:01:06,720
+[bagas] halo selamat malam semuanya
+
+12
+00:01:07,840 --> 00:01:13,720
+[bagas] terima kasih kembali pada aldian karena telah mengundang saya di agenda ini
+
+13
+00:01:13,720 --> 00:01:17,000
+[bagas] perkenalkan nama saya muhammad bagas pradana
+
+14
+00:01:17,520 --> 00:01:22,520
+[bagas] saya merupakan mahasiswa ilmu komputer di kampus universitas negeri jakarta
+
+15
+00:01:25,000 --> 00:01:27,800
+[bagas] aplikasinya tadi tentang belajar bahasa jepang yah?
+
+16
+00:01:28,000 --> 00:01:28,840
+ah iya
+
+17
+00:01:29,200 --> 00:01:31,880
+[bagas] oh ya sesuai itu
+
+18
+00:01:32,240 --> 00:01:36,680
+[bagas] saya juga memiliki beberapa minat di ajaran bahasa jepang itu sendiri
+
+19
+00:01:37,160 --> 00:01:38,920
+[bagas] apakah ada pertanyaan lagi?
+
+20
+00:01:38,920 --> 00:01:40,840
+[bagas] apa saya kurang perkenalannya?
+
+21
+00:01:43,000 --> 00:01:44,920
+sudah cukup
+
+22
+00:01:49,720 --> 00:01:53,000
+sedikit tambahan aja sih, jadi aplikasi ini
+
+23
+00:01:53,560 --> 00:01:55,720
+ngajarin bahasa jepangnya lebih ke
+
+24
+00:01:55,720 --> 00:01:57,720
+ada namanya jouyou kanji
+
+25
+00:01:58,200 --> 00:02:04,800
+jouyou kanji itu kanji yang dipelajari ari elementary sampai secondary
+
+26
+00:02:05,480 --> 00:02:10,680
+itu ada dua ribuan kanji nah seribu itu diajarin diajarin di tingkat elementary
+
+27
+00:02:10,680 --> 00:02:15,609
+nah sisanya diajarin di tingkat secondary
+
+28
+00:02:15,920 --> 00:02:19,080
+nah ya, itu aja sih buat info
+
+29
+00:02:21,080 --> 00:02:23,160
+selanjutnya yusrizal
+
+30
+00:02:23,640 --> 00:02:25,960
+bisa kenalan sedikit gak zal
+
+31
+00:02:26,600 --> 00:02:28,600
+[izal] assalamualaikum wr. wb.
+
+32
+00:02:28,760 --> 00:02:33,145
+kenalkan diri dan kenapa ingin belajar bahasa jepang gitu
+
+33
+00:02:34,120 --> 00:02:42,120
+[izal] nama saya yusrizall piliyang, saya  sama seperti bagas, mahasiswa ilmu ko,puter 2018 semester 7
+
+34
+00:02:43,480 --> 00:02:49,120
+[izal] alasan saya berminat belajar bahasa jepang yaitu karena waktu sma
+
+35
+00:02:49,120 --> 00:02:53,120
+[izal] kelas satu sama dua belajar sih tapi gak sampe kanji
+
+36
+00:02:56,600 --> 00:02:59,160
+ok ok, jadi seperti ingin lanjutin gitu yah?
+
+37
+00:03:00,320 --> 00:03:04,720
+[izal] iya mau nyoba ngelanjutin sih, baru mau nyoba doang
+
+38
+00:03:06,800 --> 00:03:11,840
+ah iya, selanjutnya ada tester berikutnya yaitu tantyo nurwahyu.
+
+39
+00:03:12,360 --> 00:03:17,360
+bisa perkenalah dulu gak yo sama kenapa tertarik belajar bahasa jepang
+
+40
+00:03:19,680 --> 00:03:22,855
+[tantyo] halo nama saya  tantyo
+
+41
+00:03:23,000 --> 00:03:31,171
+[tantyo] saya tertarik belajar bahasa jepang karena
+
+42
+00:03:32,160 --> 00:03:36,240
+[tantyo] saya sebuah  penggemar kecil
+
+43
+00:03:36,240 --> 00:03:38,638
+[tantyo] sebuah game bernama touhou project
+
+44
+00:03:38,638 --> 00:03:40,638
+[tantyo] dan konten konten komunitas yang dibuat
+
+45
+00:03:43,240 --> 00:03:51,800
+[tantyo] konten yang dibuat biasanya terkunci di bahasa jepang yang saya tifak mengerti
+
+46
+00:03:52,000 --> 00:03:56,891
+[tantyo] oleh karena itu saya ingin belajar bahasa jepang untuk memulai bisa
+
+47
+00:03:57,360 --> 00:04:00,360
+[tantyo] melihat konten konten yang mereka buat
+
+48
+00:04:00,360 --> 00:04:02,360
+[tantyo] itu saja
+
+49
+00:04:03,520 --> 00:04:04,920
+ah ok
+
+50
+00:04:11,080 --> 00:04:13,360
+dah semua perkenalan kan
+
+51
+00:04:13,600 --> 00:04:17,840
+nah sekarang tinggal cara pemakaian aplikasinya nih
+
+52
+00:04:19,840 --> 00:04:24,840
+ah bentar gua kasih dulu url downloadnya
+
+53
+00:05:08,160 --> 00:05:10,360
+dah ketemu kan aplikasinya di play store
+
+54
+00:05:17,360 --> 00:05:19,560
+[tantyo] link nya ada dimana?
+
+55
+00:05:20,040 --> 00:05:21,581
+ada di grup
+
+56
+00:05:28,000 --> 00:05:32,189
+[semua] ah ok sudah sudah
+
+57
+00:05:35,840 --> 00:05:40,240
+sekarang, pemakaian aplikasinya cukup sederhana
+
+58
+00:05:40,600 --> 00:05:43,280
+jadi buka dulu aplikasinya
+
+59
+00:05:44,040 --> 00:05:51,160
+nah nanti pas pembukaan aplikasi dia ada kayak list gitu
+
+60
+00:05:54,000 --> 00:05:56,240
+nah ini dibagi per level jadi
+
+61
+00:05:56,600 --> 00:06:02,040
+jadi ada level elementary 1 -6 dan secondary 1-6
+
+62
+00:06:06,760 --> 00:06:12,920
+dari setiap level ini ada tiga pilihan yaitu flashcard buat
+
+63
+00:06:13,360 --> 00:06:15,880
+buat mempelajari kanjinya
+
+64
+00:06:15,880 --> 00:06:19,319
+ada quiznya buat menguji pemahamannya
+
+65
+00:06:19,800 --> 00:06:25,480
+sama ada kanji listnya buat yahh lihat list kanji aja
+
+66
+00:06:31,480 --> 00:06:33,640
+sudah dibuka belum aplikasinya
+
+67
+00:06:35,440 --> 00:06:37,720
+[semua] sudah sudah
+
+68
+00:06:38,000 --> 00:06:42,160
+bisa coba klik elementary 1
+
+69
+00:06:42,720 --> 00:06:43,720
+[bagas] dicoba dulu yah
+
+70
+00:06:43,720 --> 00:06:45,128
+iya
+
+71
+00:06:45,128 --> 00:06:46,800
+[yusrizal] yak ada tiga
+
+72
+00:06:46,800 --> 00:06:47,300
+bisa dicoba coba dulu yang flashcardnya
+
+73
+00:07:02,600 --> 00:07:05,240
+nah diflashcardnya ada next buat selanjutnya
+
+74
+00:07:05,240 --> 00:07:08,916
+sama previous buat ke sebelumnya
+
+75
+00:07:08,916 --> 00:07:17,672
+untuk yang flip buat ngasih tau pengertiannya gitu gitu
+
+76
+00:07:20,360 --> 00:07:21,232
+dah semua kan?
+
+77
+00:07:22,480 --> 00:07:24,435
+[bagas] lagi dicoba
+
+78
+00:07:28,000 --> 00:07:29,033
+[bagas] sudah
+
+79
+00:07:30,360 --> 00:07:32,920
+sekarang balik saja teken back
+
+80
+00:07:33,480 --> 00:07:34,357
+sekarang quiznya
+
+81
+00:07:36,320 --> 00:07:38,534
+quiz ini ada 3 type
+
+82
+00:07:42,520 --> 00:07:49,438
+yang pertama ada yang nanya pengertian kanjinya
+
+83
+00:07:49,560 --> 00:07:51,741
+sama cara bacanya
+
+84
+00:08:04,640 --> 00:08:06,905
+sama arti ke kanjinya
+
+85
+00:08:12,000 --> 00:08:13,703
+bisa dicoba coba dulu
+
+86
+00:08:25,440 --> 00:08:29,387
+nah itu defaultnya ada 10 soal
+
+87
+00:09:01,480 --> 00:09:03,375
+[bagas] di ending ada hasilnya yah?
+
+88
+00:09:03,375 --> 00:09:04,684
+iya iya ada
+
+89
+00:09:05,520 --> 00:09:10,689
+iya ada hasilnya dari quiz yang telah dikerjakan tadi
+
+90
+00:09:14,440 --> 00:09:16,505
+apakah sudah semua?
+
+91
+00:09:31,440 --> 00:09:32,446
+dah semuanya kan?
+
+92
+00:09:32,920 --> 00:09:33,710
+sudah
+
+93
+00:09:34,960 --> 00:09:39,296
+trus ada lagi, balik lagi ke menu awal
+
+94
+00:09:40,000 --> 00:09:48,680
+trus itu ada kanji list itu buat level yang dipilih
+
+95
+00:09:48,680 --> 00:09:53,361
+itu nanti kalo diklik dia ngarahin ke webview detail kanjinya
+
+96
+00:09:53,361 --> 00:10:06,520
+disitu ada kayak jumlah goresannya,  radicalnya, kun/onyominya cara gambarnya, stroke ordernya
+
+97
+00:10:08,000 --> 00:10:10,407
+dah keliatan semua kan?
+
+98
+00:10:10,407 --> 00:10:13,761
+[semua] keliatan
+
+99
+00:10:13,761 --> 00:10:16,920
+balik lagi
+
+100
+00:10:18,440 --> 00:10:20,723
+itu aja sih fiturnya
+
+101
+00:10:23,400 --> 00:10:29,460
+masih simple sih, ingin dikembangkan lagi sih rencananya
+
+102
+00:10:31,360 --> 00:10:35,137
+dari tester adafeedback gak?
+
+103
+00:10:38,640 --> 00:10:41,767
+mungkin dari tantyo dulu, ada feedback ga yo?
+
+104
+00:10:42,160 --> 00:10:45,795
+ya mungkin
+
+105
+00:10:48,160 --> 00:10:50,616
+sebentar saya olah dulu kata katanya
+
+106
+00:10:54,200 --> 00:10:58,212
+mungkin lebih baik kalo misalkan
+
+107
+00:11:00,000 --> 00:11:05,468
+saya agak kurang tahu hiragana jadi
+
+108
+00:11:05,468 --> 00:11:13,261
+jadi misalkan kalo muncul sebuah tulisan hiragana yang menejlaskan sebuah kanji
+
+109
+00:11:13,261 --> 00:11:22,768
+mungkin bisa ditambahkan tulisan romajinya
+
+110
+00:11:22,768 --> 00:11:26,717
+jika pengguna mau atau tidak
+
+111
+00:11:26,717 --> 00:11:38,814
+jadi bagi pengguna yang baru masuk dan tidak tahu hiragana bisa tahu cara membacanya terlebih dahulu
+
+112
+00:11:40,600 --> 00:11:48,975
+atauga juga dimasukan daftar cara membaca hiragana
+
+113
+00:11:55,000 --> 00:11:59,889
+dan taukan panah back yang ada di atas aplikasi
+
+114
+00:11:59,889 --> 00:12:00,883
+iya iya tau tau
+
+115
+00:12:00,883 --> 00:12:03,578
+nah itu juga perlu
+
+116
+00:12:05,120 --> 00:12:06,024
+ok
+
+117
+00:12:06,024 --> 00:12:13,632
+mungkin saya liat liat lagi untuk dapat feedback lagi jadi lanjut ke yang lain dulu saja
+
+118
+00:12:15,000 --> 00:12:20,523
+jadi hiragananya itu buat fitur selanjutnya sih
+
+119
+00:12:25,360 --> 00:12:29,108
+sekarang selanjutnya bagas, ada feedback ga gas?
+
+120
+00:12:30,880 --> 00:12:32,927
+[bagas]kalo dari saya sendiri
+
+121
+00:12:33,240 --> 00:12:36,427
+[bagas]aplikasinya ini uinya simple
+
+122
+00:12:36,427 --> 00:12:38,737
+[bagas]jadi mudah dicerna nih
+
+123
+00:12:38,737 --> 00:12:41,646
+[bagas]kemudian kalo selanjutnya nih
+
+124
+00:12:41,646 --> 00:12:44,649
+[bagas] saya ingin nanya di bagian kanji listnya ini
+
+125
+00:12:44,649 --> 00:12:50,449
+[bagas] apa emang sudah seperti ini daftarnya atau bisa diacak acak posisinya sebenarnya sih?
+
+126
+00:12:54,480 --> 00:12:57,205
+[bagas] maksudnya ini kan ada ibarat kayak
+
+127
+00:12:57,205 --> 00:12:59,920
+[bagas] ada bisa dijadikan data nih data list
+
+128
+00:12:59,920 --> 00:13:03,885
+[bagas] misalnya list angka apa aja list pekerjaan
+
+129
+00:13:03,885 --> 00:13:07,798
+list kata kerja gitu nih kalo saya lihat sih 
+
+130
+00:13:07,798 --> 00:13:10,836
+rada nyampur nyampur ya jadi misal saya pengen tahu
+
+131
+00:13:12,160 --> 00:13:15,841
+[bagas] dalam list kalimat pekerjaan ada apa aja
+
+132
+00:13:15,841 --> 00:13:21,023
+[bagas] kalo ini seperti digabung semua apa emang seperti ini yah?
+
+133
+00:13:23,640 --> 00:13:29,491
+iya, jadi ini perlevel dari elementary 1
+
+134
+00:13:29,491 --> 00:13:34,826
+dari data yang saya dapet ga ada pengelompokan gini
+
+135
+00:13:34,826 --> 00:13:39,892
+jadi kalo pengelompokan gitu harus dikelompokin manual lagi
+
+136
+00:13:47,800 --> 00:13:51,593
+[bagas] kalo selanjutnya dibagian ini
+
+137
+00:13:51,593 --> 00:13:57,998
+[bagas] seperti kata tantyo tombol back diatas sepertinya perlu ditambahkan
+
+138
+00:14:00,000 --> 00:14:01,423
+ah ok
+
+139
+00:14:01,423 --> 00:14:04,989
+dan selanjutnya ada lagi yang ingin ditambahkan?
+
+140
+00:14:18,240 --> 00:14:23,265
+[tantyo] saya boleh memberikan satu masukan dulu tidak?
+
+141
+00:14:23,265 --> 00:14:26,329
+bagas lu udah gas? 
+
+142
+00:14:26,329 --> 00:14:28,515
+[bagas] yah silahkan tantyo
+
+143
+00:14:30,800 --> 00:14:36,165
+[tantyo] dark theme mungkin baik saya suka dark theme iya saya itu saja
+
+144
+00:14:36,165 --> 00:14:39,050
+[bagas] nah betul itu, tema dark
+
+145
+00:14:43,320 --> 00:14:45,456
+ah ok ok
+
+146
+00:14:46,040 --> 00:14:49,622
+dah apa ada lagi? tantyo? bagas?
+
+147
+00:14:57,600 --> 00:15:04,221
+[tantyo] mungkin pada kanji list ...
+
+148
+00:15:04,221 --> 00:15:10,387
+[tantyo] kan pindah halama ke kanji list
+
+149
+00:15:11,720 --> 00:15:21,343
+[tantyo] mungkin ada gak pemberian penampilan yang enak?
+
+150
+00:15:22,320 --> 00:15:24,375
+[tantyo] itu aja sih
+
+151
+00:15:24,375 --> 00:15:30,493
+[tantyo] saya ga kebayang untuk saat ini mungkin ada sebuah cara mempresentaikan ...
+
+152
+00:15:30,493 --> 00:15:34,708
+[tantyo] mempresentasikan kanji list dengan baik
+
+153
+00:15:34,708 --> 00:15:37,977
+[tantyo] yang sekarang ga terlalu buruk sih
+
+154
+00:15:37,977 --> 00:15:40,722
+[tantyo] yang sekarang komprehensif dan simple
+
+155
+00:15:40,722 --> 00:15:47,549
+[tantyo] ga buruk, tapi saya rasa ada cara mempresentasikan dengan lebih baik lagi
+
+156
+00:15:47,549 --> 00:15:49,325
+[tantyo] itu saja
+
+157
+00:15:49,325 --> 00:16:04,141
+ah iya, jadi karena waktu yang disediakan kurang mencukupi untuk mengadakan ui/ux research
+
+158
+00:16:04,141 --> 00:16:09,112
+jadi ya itu masih fitur selanjutnya
+
+159
+00:16:10,080 --> 00:16:13,072
+[tantyo] baik saya tau kok perasaannya
+
+160
+00:16:14,160 --> 00:16:16,303
+udah kan yo?
+
+161
+00:16:17,760 --> 00:16:23,053
+udah mungkin, mungkin kalo ada lagi, saya liat liat lagi
+
+162
+00:16:23,053 --> 00:16:28,837
+[bagas] saya mau menambahkan lagi sedikit atau yusrizal duluan?
+
+163
+00:16:28,837 --> 00:16:31,694
+[izal] ya coba saya dulu
+
+164
+00:16:31,694 --> 00:16:36,885
+[izal] masukan saya, apakah anda berminat untuk 
+
+165
+00:16:36,885 --> 00:16:43,756
+[izal] menambahkan bahasa indonesia ke aplikasi ini
+
+166
+00:16:43,756 --> 00:16:47,720
+[izal] buat ramah gitu buat orang indonesia sendiri menggunakannya
+
+167
+00:16:47,720 --> 00:16:50,359
+ohh.. bisa sih ditambahin
+
+168
+00:16:53,440 --> 00:16:55,438
+[izal] sama kayak ini apa..
+
+169
+00:16:55,438 --> 00:17:00,600
+[izal] apakah anda berminat untuk jadi aplikasi besar?
+
+170
+00:17:00,600 --> 00:17:07,249
+[izal] soalnya kalau aplikasi besar quiz nya perlu ditambahin gitu biar menarik
+
+171
+00:17:14,920 --> 00:17:21,647
+ahhh.. aplikasi besar yah.. mungkin kalau ada waktu luang kali yah
+
+172
+00:17:21,647 --> 00:17:30,435
+ya mungkin kalo ada waktu luang aplikasinya bakal ditingkatin
+
+173
+00:17:30,435 --> 00:17:34,922
+sudah cukup itu?
+
+174
+00:17:40,360 --> 00:17:52,000
+[izal] di kanji list itu ada artinya gitu dibawahnya, seharusnya ada artinya dari berbagai bahasa gitu 
+
+175
+00:17:52,000 --> 00:17:55,653
+[izal] gitu sih mikirnya kenapa gak ada bahasa indonesia gitu
+
+176
+00:17:55,653 --> 00:18:07,840
+[izal] soalnya.. ini pasar aplikasi ini dimana? di dunia atau emang mencoba target pasar indonesia?
+
+177
+00:18:07,840 --> 00:18:10,263
+seluruh negara targetnya sih
+
+178
+00:18:12,000 --> 00:18:18,684
+iya itu aja sih, udah bagus sih sebenernya detailnya
+
+179
+00:18:29,360 --> 00:18:32,454
+[bagas]ah iya, sudah boleh nih pendapatnya dari sayanih?
+
+180
+00:18:32,960 --> 00:18:35,041
+[izal] ah iya silahkan bagas
+
+181
+00:18:35,041 --> 00:18:36,695
+[bagas] terima kasih izal
+
+182
+00:18:36,695 --> 00:18:41,790
+[bagas]kalo dari saya ingin nambahin dari bagian quiznya
+
+183
+00:18:41,790 --> 00:18:43,651
+[bagas]quiznya ini
+
+184
+00:18:43,651 --> 00:18:50,406
+[bagas] mungkin bagi orang awam nih, yang kurang bisa menghafal dengan baik nih
+
+185
+00:18:50,406 --> 00:18:54,687
+[bagas]mungkin ditambahkan satu fitur yang namanya hint
+
+186
+00:18:54,687 --> 00:18:58,657
+[bagas]jadi kalimat ini hint yang yang mendekati ini apasih gitu
+
+187
+00:19:00,000 --> 00:19:03,073
+[bagas] jadi user bisa nerka nerka gitu
+
+188
+00:19:03,073 --> 00:19:05,752
+[bagas] "ini apa yah kira kira"
+
+189
+00:19:05,752 --> 00:19:10,206
+[bagas] kalo dari saya mungkin itu bisa ditambahkan mungkin
+
+190
+00:19:10,206 --> 00:19:12,912
+[bagas]terus selanjutnya...
+
+191
+00:19:14,960 --> 00:19:20,874
+[bagas] apakah ada niatan menambahkan seperti splash screen gitu?
+
+192
+00:19:21,920 --> 00:19:36,055
+ahh ada sih rencananya gitu, kita juga open email buat user request fitur
+
+193
+00:19:36,055 --> 00:19:39,584
+[bagas] oh bisa ya. bagus bagus sih itu
+
+194
+00:19:39,584 --> 00:19:46,050
+[bagas] soalnya kalo splashscreen itu fungsinya juga bisa mempromosikan aplikasi anda
+
+195
+00:19:46,050 --> 00:19:48,302
+[bagas] jadi user inget gitu
+
+196
+00:19:48,302 --> 00:19:50,623
+[bagas] "oh hako hako jadi ..."
+
+197
+00:19:50,623 --> 00:19:57,985
+[bagas] kadang user hanya memperhatikan image itu jarang yang baca ampe nama gitu loh
+
+198
+00:19:57,985 --> 00:19:59,746
+[bagas] jadi kalo aplikasinya dikasih splashscreen gitu
+
+199
+00:19:59,746 --> 00:20:03,796
+[bagas] pas aplikasinya dibuka ada tampilan logo apikasinya
+
+200
+00:20:03,796 --> 00:20:07,884
+[bagas] jadi user inget gitu aplikasinya
+
+201
+00:20:07,884 --> 00:20:11,305
+[bagas] sama dari splashscreen itu bisa ngehandling ...
+
+202
+00:20:11,305 --> 00:20:16,068
+[bagas] jadi misalnya datanya masih diload, ditahan dulu di splash screennya
+
+203
+00:20:18,000 --> 00:20:21,687
+bisa sih.. jadi lebih ke branding nya yah?
+
+204
+00:20:21,687 --> 00:20:23,506
+[bagas] iya di branding nya iya
+
+205
+00:20:25,000 --> 00:20:30,704
+[bagas] ah iya kalo dari saya segitu saja, mungkin dari izal atau tantyo ada tambahan lagi
+
+206
+00:20:30,704 --> 00:20:33,051
+[ijal] oh ya tambahan nih
+
+207
+00:20:33,051 --> 00:20:41,800
+[ijal] kan tadi di waktu bagas request inian yah, bisa ga sih tampilan nya bisa ga di kata kerja ini kata kerja ini?
+
+208
+00:20:41,800 --> 00:20:46,658
+[ijal] nah tadi alesannya karena dari situnya yah?
+
+209
+00:20:46,658 --> 00:20:50,240
+[ijal] kenapa kata kerja nya ga berurutan gitu?
+
+210
+00:20:50,240 --> 00:20:53,979
+iya dari datanya sendiri yang gak ada
+
+211
+00:20:53,979 --> 00:20:59,745
+[ijal] ah iya ini bisa juga jadi solusi juga sih dikasih deskripsi
+
+212
+00:20:59,745 --> 00:21:06,874
+[ijal] kenapa kok yang elementary satu isinya gini gitu
+
+213
+00:21:06,874 --> 00:21:12,005
+[ijal] itu bisa sih ditambahin deskripsi gitu biar yang belajar tahu gitu
+
+214
+00:21:12,005 --> 00:21:15,860
+[ijal] kenapa kata kerja inian ini
+
+215
+00:21:15,860 --> 00:21:20,712
+[ijal] kata kerja elementary satu ini
+
+216
+00:21:20,712 --> 00:21:29,380
+[ijal] perlu ditambahin deskripsi sih gitu biar tambah ngerti
+
+217
+00:21:34,760 --> 00:21:37,334
+[ijal] tapi fiturnya udah lumayan bagus sih
+
+218
+00:21:37,334 --> 00:21:45,440
+[ijal] cuma nambah deskripsi aja gitu bisa jadi solusi buat tadi yang bagas omongin
+
+219
+00:21:47,440 --> 00:21:48,982
+ok
+
+220
+00:21:48,982 --> 00:21:54,518
+dari tester yang lain ada tanggapan lagi?
+
+221
+00:21:54,518 --> 00:21:57,027
+[tantyo] ada al
+
+222
+00:21:57,027 --> 00:22:01,863
+[tantyo] mungkin ini sendiri offtopic sarannya tapi mungkin
+
+223
+00:22:01,863 --> 00:22:08,670
+[tantyo] jikalau ada user login seru juga kalo ada leaderboard
+
+224
+00:22:08,670 --> 00:22:10,925
+[tantyo] untuk quiz quiz
+
+225
+00:22:10,925 --> 00:22:17,204
+[tantyo] jadi quiz nya menjadi suatu hal yang kompetitif 
+
+226
+00:22:17,204 --> 00:22:18,321
+[tantyo] ya itu saja
+
+227
+00:22:18,321 --> 00:22:19,854
+ok
+
+228
+00:22:24,840 --> 00:22:28,534
+mungkin daritester lain ada tanggapan lagi
+
+229
+00:22:28,534 --> 00:22:31,000
+[izal] saya tidak
+
+230
+00:22:31,000 --> 00:22:32,420
+bagas?
+
+231
+00:22:32,420 --> 00:22:40,774
+[bagas] mungkin di aplikasi ini ada tambahan halaman kali ya, halaman about us jadi biar ...
+
+232
+00:22:40,774 --> 00:22:45,934
+[bagas] jadi developernya bisa branding dirinya sendiri yang membuat aplikasi ini
+
+233
+00:22:45,934 --> 00:22:49,890
+ok ok bisa si
+
+234
+00:22:49,890 --> 00:22:52,676
+ada tanggapan lagi gas?
+
+235
+00:22:52,676 --> 00:22:54,001
+[bagas] oke sudah cukup
+
+236
+00:22:54,001 --> 00:22:55,171
+[bagas] sudah bagus ini
+
+237
+00:22:55,171 --> 00:22:56,504
+[bagas] mudah digunakan
+
+238
+00:22:56,504 --> 00:22:57,832
+ok
+
+239
+00:22:57,832 --> 00:23:02,159
+jadi karena sudah tidak ada tanggapan lagi
+
+240
+00:23:02,159 --> 00:23:07,619
+jadi sesi zzom ini akan saya tutup
+
+241
+00:23:07,619 --> 00:23:11,702
+ya terima kasih semuanya
+
+242
+00:23:12,760 --> 00:23:17,595
+[bagas] ya terima kasih kembali aldian, terima kasih udah mengundang
+
+243
+00:23:17,595 --> 00:23:20,341
+[bagas] ini ide idenya yusrizal dan tantyo bagus bagus ini
+
+244
+00:23:20,341 --> 00:23:21,063
+[bagas] mantap
+
+245
+00:23:21,063 --> 00:23:23,772
+ya makasih semuanya
+
+246
+00:23:23,772 --> 00:23:25,772
+[tantyo] makasih telah mengundang
+
+247
+00:23:26,760 --> 00:23:29,354
+selamat tinggal
+
