@@ -10,3 +10,6 @@ https://play.google.com/store/apps/details?id=com.ayvuirproject.hako
 
 ### video link
 https://youtu.be/oEGMVJ1CJl4
+
+### subtitle
+https://github.com/aldiaaan/react-native-kanji-app/blob/master/captions.srt
